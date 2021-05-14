@@ -1,0 +1,9 @@
+2021-05-14 17:07:06:05S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2021-05-14 17:07:07:05S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in C:\Users\EM84BA\OneDrive - ING\Downloads\gams_automatedtesting-UAC\lib\cognizant-intelligent-test-scripter-engine-1.1.jar
+2021-05-14 17:07:11:05S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Users/EM84BA/OneDrive%20-%20ING/Downloads/gams_automatedtesting-UAC/lib/slf4j-simple-1.7.10.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [jar:file:/C:/Users/EM84BA/OneDrive%20-%20ING/Downloads/gams_automatedtesting-UAC/lib/clib/slf4j-simple-1.5.2.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.impl.SimpleLoggerFactory]
+2021-05-14 17:07:34:05S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 0:00:28.107 ]
